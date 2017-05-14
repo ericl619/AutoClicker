@@ -1,6 +1,5 @@
 import pyautogui
 import time
-import datetime
 
 pyautogui.PAUSE = 0.01
 clicks = input('Press enter to start')
